@@ -1,0 +1,10 @@
+{
+  "locations": [
+    "https://abc123.com/456/",
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE000%5D%5Bv0%5D.nsp",
+      "title": "Fortnite Switch Base (v0)",
+      "action": "disable"
+    }
+  ]
+}
